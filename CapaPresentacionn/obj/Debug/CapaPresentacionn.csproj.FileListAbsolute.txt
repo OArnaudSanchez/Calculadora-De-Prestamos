@@ -1,0 +1,14 @@
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\bin\Debug\CapaPresentacionn.exe.config
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\bin\Debug\CapaPresentacionn.exe
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\bin\Debug\CapaPresentacionn.pdb
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\obj\Debug\CapaPresentacionn.csprojAssemblyReference.cache
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\obj\Debug\CapaPresentacionn.Aplicacion.resources
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\obj\Debug\CapaPresentacionn.Login.resources
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\obj\Debug\CapaPresentacionn.Properties.Resources.resources
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\obj\Debug\CapaPresentacionn.csproj.GenerateResource.cache
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\obj\Debug\CapaPresentacionn.csproj.CoreCompileInputs.cache
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\obj\Debug\CapaPresentacionn.csproj.CopyComplete
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\obj\Debug\CapaPresentacionn.exe
+C:\Users\Administradorr\source\repos\Calculadora de Prestamos\CapaPresentacionn\obj\Debug\CapaPresentacionn.pdb
